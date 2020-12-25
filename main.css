@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+}
+
+
+header {
+  background: pink;
+  color: inherit;
+  padding: 20px 15px 10px 20px;
+}
+
+header h2 {
+  margin: 0;
+  display: inline;
+
+}
+nav ul{
+  margin:0;
+  padding:0 0 0 15px;
+  display: inline;
+}
+
+nav ul li {
+  background: black;
+  color: Pink;
+  display: inline-block;
+  list-style-type: : none;
+  padding: 5px 15px;
+}
+
+  nav ul li a {
+    color: pink;
+  }
+  .row{
+    text-align: center;
+  }
+
+
+  .col {
+    background: #333;
+    border-radius: 5px;
+    color: pink;
+    padding: 10px .5%;
+    float: left;
+    margin: .5%;
+    width: 31%;
+  }
+
+  footer {
+    clear: both;
+  }
+
+  img {
+    border-radius: 20%
+  }
